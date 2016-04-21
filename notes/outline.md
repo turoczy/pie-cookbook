@@ -16,7 +16,7 @@
 		6. This document is full of "spoiler alerts," things that PIE has learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where PIE ended. You should start where PIE started. And try to end where you want to end. 
 		7. There is inherent value in the journey, itself.
 		8. Risks
-			9. Attempting this without an existing community is a recipe, too. It’s a recipe for complete failure.
+			9. Attempting to start an accelerator without an existing community is a recipe, too. It’s a recipe for complete failure.
 			10. You can go too far.
 				11. In structure
 				12. In goals
@@ -41,11 +41,14 @@
 				10. “So with the PIE Cookbook, getting the chance to actually help lead an open source project…? That’s been a long time coming for me. I’m looking forward to learning — and probably making some mistakes. But no matter what, I’m really interested in seeing where the community takes this project.”
 		6. History
 			7. In that same vein, we are providing the PIE history as an example or parable, not a step-by-step, cookie cutter process for you to follow to achieve the same ends. 
-			8. It is important that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. To put it another way, the way PIE came into being and worked would likely not work if we tried to do the same thing today. Too many things have changed. There is no way to recreate those random collisions of things. Or to recreate that period in time. 
-			9. That said, your community is likely at a different place. Maybe there are similarities to our experience or moment in time. Maybe there are companies or individuals who remind you of someone in your community. Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
+			8. It is important to note that, like many things in the world of startups, PIE worked at a moment in time, because of the people involved, and the way the world happened to be going in Portland, Oregon, with open source, technology, startups, blogging, and creative agencies. 
+			9. To put it another way, the way PIE came into being and worked would likely not work if we tried to do the same thing today. Too many things have changed. There is no way to recreate those random collisions of things. Or to recreate that period in time. 
+			9. That said, your community is likely at a different place. Maybe there are similarities to our experience or moment in time. Maybe there are companies or individuals we’ll reference in the PIE Cookbook who remind you of someone in your community. 
+			10. Whatever the case, we are hopeful that our history with PIE provides reference points that allow you to better identify — and take advantage of — potential opportunities in your community, today.
 		7. Recipes
 			8. Julia Child vs Better Homes and Gardens
-				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
+				9. We don't expect you to follow these recipes step by step. This isn't a science experiment. This is sustenance for your community. And as such, it needs to taste the way your community wants it to taste. 
+				10. We expect you to make these recipes your own. Maybe you like more salt or more spice. Do what works for your community. 
 				10. Jump around as needed. Choose your own adventure.
 					11. This isn’t a book you read cover to cover. 
 					12. Some of this will seem obvious to you… but it’s not obvious to everyone
@@ -60,8 +63,11 @@
 			13. Advisor
 			14. Investor
 				15. Angel
-				16. VC
+				16. Venture Capital
+				17. Institutional Capital
+				17. Private Equity
 			13. Startup
+			14. Founder
 			14. Resident
 			14. Patron
 			15. Sponsor
@@ -89,14 +95,16 @@
 			8. Wieden+Kennedy
 		7. Founding hypotheses
 			8. Startup community
-				9. Provide a means of giving back to channel the pent up desire to do so
+				9. Provide a means and method of “giving back” to channel the pent up desire of the community to do so
 				9. "Build better founders"
 				10. "Make new mistakes"
-			9. W+K
+			9. Wieden+Kennedy (aka, W+K, Wieden)
 				10. "Founders are just another flavor of creative"
 					11. Entrepreneurs and technologists are a new creative class, and their problem-solving toolkit will be increasingly important to solve the emerging brand challenges we tackle at Wieden+Kennedy. But words and images don’t always seem to play well with code. And folks great at one craft may not recognize another as “creative.” But in a world of distributed software and hardware, it’s important to find ways to work together. Entrepreneurs and technologists are inspired creatives who’ve chosen technology as their medium for creative expression. We should be able to find ways to do cool stuff, together.
-				12. Fail harderer.
-				13. PIE has always been a wedge — a means of empowering entities to initiate conversations that would be difficult, at best, if not downright impossible. We have served this role throughout our history, enabling a variety of companies to engage in more meaningful and impactful conversations with critical partners.
+				12. Fail harderer. https://cdn-images-1.medium.com/max/1760/1*p-8RVqSOywefET-W2TnBgw.jpeg
+				13. PIE has always been a wedge
+					14. A means of empowering entities to initiate conversations that would be difficult, at best, if not downright impossible. 
+					15. We have served this role throughout our history, enabling a variety of companies to engage in more meaningful and impactful conversations with critical partners.
 		7. Experiments
 			8. PIE's culture of experimentation
 			8. Coworking
@@ -220,32 +228,73 @@
 						23. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
 						29. Typical percentage of the mentor pool
 					23. Lead
 						24. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
 						29. Typical percentage of the mentor pool
+					30. Corporate mentors
+						24. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of corporate mentors
+							31. Making mentorship a requirement
+							32. Including mentorship in review process and roles & responsibilities
+							33. Getting corporate mentors to take off the “brand hat” and speak from personal experience
+								34. “You’ve achieved a level of success as [executive at company x]. What’s your personal opinion?”
+					35. Investor mentors
+						36. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Value to the startups
+						29. Typical percentage of the mentor pool
+						30. Special challenges of investor mentors
+							31. Getting investors to take off the investor hat and mentor
+							32. This isn’t due diligence. It’s mentorship.
+							33. Preparing the startups for when an investor switches from mentoring to investing
 				30. Resident
 					24. Peer
 						25. Define role and expectations
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
+						29. Special challenges of peer mentors
 					25. Mentors in residence
 						26. Define role and expectations
+							27. At PIE, these were companies PIE alums who had been through the PIE process
 						27. Value to the organization
 						28. Value to the mentor
+						29. Value to the startups
+							30. Can provide valuable insights into working with PIE and mentors
+							31. Can provide tips and tricks for getting the most out of the program
+							32. Can help startups work the system
 					26. Entrepreneurs in Residence
 						27. Define role and expectations
 						29. Value to the organization
 						30. Value to the entrepreneur
+					31. Staff
+						32. Define role and expectations
+						27. Value to the organization
+						28. Value to the mentor
+						29. Special challenges of staff as mentors
 			21. Anyone can (and should) be a mentor
+				22. It’s not just “experts”
+				23. Different viewpoints reveal flaws and opportunities
 			22. Identifying potential mentors
 			23. Qualifying potential mentors
 			24. Alums as mentors
 			24. Onboarding
 			24. Time commitment
 			25. Mentoring the mentors
+				26. Setting the tone
+					27. https://github.com/piepdx/pie-cookbook/blob/master/notes/mentors/mentoring-mentors.md
+				26. How to mentor
+				27. Common mistakes
 			26. Test driving mentors
 			27. Assessing skill fit
 			28. Assessing personality fit
@@ -756,3 +805,11 @@ Put stuff here that you know belongs somewhere but you’re not quite sure where
 		156. What an investor looks like? monetary, connector, champion, others? 
 		157. As a founder you really aren't all that so, DO THE WORK! (theme?) 
 		158. Decision making.... to steal yogi berra "If you come to a fork in the road, take it"
+159. Startups
+	160. How do we leverage feedback and insights on the accelerator experience from PIE alums ?
+	161. Insights from post mortem interviews
+	162. Insights given where they are now
+		161. What worked?
+		162. What didn’t?
+		163. What stuck with them?
+		164. What would they do differently?
